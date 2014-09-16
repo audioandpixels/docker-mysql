@@ -1,0 +1,10 @@
+{
+  "name": "mysql",
+  "version": "0.1.0",
+  "description": "Official Docker MySQL.",
+  "author": "Kitematic",
+  "logo": "logo.png",
+  "app": {
+    "webPort": false
+  }
+}
