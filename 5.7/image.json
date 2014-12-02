@@ -1,6 +1,6 @@
 {
   "name": "mysql",
-  "version": "0.1.0",
+  "version": "5.7",
   "description": "Official Docker MySQL.",
   "author": "Kitematic",
   "logo": "logo.png",
